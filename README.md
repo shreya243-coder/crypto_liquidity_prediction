@@ -107,3 +107,7 @@ streamlit run app.py
 Shreya Patra
 B.Tech, 2nd Year
 Crypto Liquidity Predictor – Machine Learning Project
+
+## 🎥 Demo Video
+
+▶️ [Click to download and watch deployment demo](media/deployment_demo.mp4)
